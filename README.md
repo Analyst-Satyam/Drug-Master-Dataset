@@ -1,11 +1,12 @@
 **📊 GLP-1 Weight Loss Drugs Master Dataset (2017–2026)**
+
 **Overview :**
-This project analyzes the GLP-1 Weight Loss Drugs Master Dataset (2017–2026) sourced from Kaggle.
-The dataset contains adverse event reports, patient demographics, and reaction outcomes related to 
+-- This project analyzes the GLP-1 Weight Loss Drugs Master Dataset (2017–2026) sourced from Kaggle.
+-- The dataset contains adverse event reports, patient demographics, and reaction outcomes related to 
 popular GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.
 
-Using Power BI, I built an interactive dashboard to explore drug safety trends, patient reactions,
-and demographic insights across multiple years and countries.
+
+## Using Power BI, I built an interactive dashboard to explore drug safety trends, patient reactions, and demographic insights across multiple years and countries.
 
 **📂 Dataset Information**
 
