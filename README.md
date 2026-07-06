@@ -32,6 +32,9 @@ Provide data-driven insights into drug safety and patient impact.
 
 **📊 Dashboard Highlights**
 
+![Dashboard Overview](Dashbord.png)
+
+
 The Power BI dashboard includes:
 
 -- Average Patient Age by Country (bar chart)
